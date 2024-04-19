@@ -13,5 +13,5 @@ https://github.com/Harshavardhanrajuthonti/AIML-BATCH_5/edit/main/README.md
 7. https://github.com/Harshavardhanrajuthonti/AIML-BATCH_5/blob/main/Assignment_07.ipynb
 8. https://github.com/Harshavardhanrajuthonti/AIML-BATCH_5/blob/main/Assignment_08.ipynb
 9. https://github.com/Harshavardhanrajuthonti/AIML-BATCH_5/blob/main/Assignment_09.ipynb
-
+10. https://github.com/Harshavardhanrajuthonti/AIML-BATCH_5/blob/main/Assignment_10.ipynb
 
