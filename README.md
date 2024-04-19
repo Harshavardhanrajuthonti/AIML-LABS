@@ -2,6 +2,10 @@
 
 2.https://github.com/Harshavardhanrajuthonti/AIML-BATCH_5/blob/main/Assignment2aiml.ipynb
 
+3. https://github.com/Harshavardhanrajuthonti/AIML-BATCH_5/blob/main/Lab03_AIML.ipynb
+
+4.
+
 5. https://github.com/Harshavardhanrajuthonti/AIML-BATCH_5/blob/main/Assignment_05.ipynb
 
 6. https://github.com/Harshavardhanrajuthonti/AIML-BATCH_5/blob/main/Assignment_06.ipynb
